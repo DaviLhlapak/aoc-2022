@@ -7,7 +7,9 @@
     "day1-a": "yarn tsnd --transpile-only day1/a.ts",
     "day1-b": "yarn tsnd --transpile-only day1/b.ts",
     "day2-a": "yarn tsnd --transpile-only day2/a.ts",
-    "day2-b": "yarn tsnd --transpile-only day2/b.ts"
+    "day2-b": "yarn tsnd --transpile-only day2/b.ts",
+    "day3-a": "yarn tsnd --transpile-only day3/a.ts",
+    "day3-b": "yarn tsnd --transpile-only day3/b.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
